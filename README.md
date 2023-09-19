@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffozozo
-- 👀 I’m interested in ... rock climbing and web apps
-- 🌱 I’m currently learning ... how to build stuff on aws
-- 💞️ I’m looking to collaborate on ... route 53 and DNS records. seems like I am having trouble with MX records.
+- 👀 I’m interested in ... rock climbing, raspberry pi projects, react.js
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... jeffozozo@gmail.com
 
 <!---
